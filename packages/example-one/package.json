@@ -2,5 +2,9 @@
   "name": "@example/example-one",
   "version": "0.0.0",
   "main": "index.js",
-  "license": "AGPLv3"
+  "license": "AGPLv3",
+  "scripts": {
+    "build": "echo build.",
+    "test": "echo test."
+  }
 }
