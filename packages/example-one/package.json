@@ -1,0 +1,6 @@
+{
+  "name": "@example/example-one",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "AGPLv3"
+}
