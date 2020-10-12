@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/dxos/release-playground/compare/v1.0.0...v1.0.1) (2020-10-12)
+
+
+### Bug Fixes
+
+* index ([508093c](https://www.github.com/dxos/release-playground/commit/508093c17e9d200bead4d0a5f1f9659f7c4c009c))
+
 ## 1.0.0 (2020-10-12)
 
 
