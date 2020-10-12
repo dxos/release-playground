@@ -26,7 +26,9 @@ jobs:
         if: ${{ steps.release.outputs.release_created }}
       - run: yarn
         if: ${{ steps.release.outputs.release_created }}
-      - run: npm whoami
+      - name: Publish
+        run: |
+          npm whoami
         env:
           NODE_AUTH_TOKEN: ${{secrets.DXOS_NPM_TOKEN}}
         if: ${{ steps.release.outputs.release_created }}
