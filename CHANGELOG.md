@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/dxos/release-playground/compare/v1.0.0...v1.0.1) (2020-10-12)
+
+
+### Bug Fixes
+
+* monorepotags? ([eb00bfb](https://www.github.com/dxos/release-playground/commit/eb00bfbc6e5b28ced754026043f25535d15d34c1))
+* spaces ([ca66523](https://www.github.com/dxos/release-playground/commit/ca66523a52d53137683bf1aaacd6febf40841030))
+
 ## 1.0.0 (2020-10-12)
 
 
