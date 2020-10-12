@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/dxos/release-playground/compare/v1.0.1...v1.0.2) (2020-10-12)
+
+
+### Bug Fixes
+
+* different token ([026ecbd](https://www.github.com/dxos/release-playground/commit/026ecbd8dd63e182bf4bca59e993e13a32a3df20))
+
 ### [1.0.1](https://www.github.com/dxos/release-playground/compare/v1.0.0...v1.0.1) (2020-10-12)
 
 
