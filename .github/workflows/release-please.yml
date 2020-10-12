@@ -23,10 +23,15 @@ jobs:
           node-version: 12
           registry-url: 'https://registry.npmjs.org'
         if: ${{ steps.release.outputs.release_created }}
-      - run: yarn
-        if: ${{ steps.release.outputs.release_created }}
-      - name: Publish
+      - name: Lerna Publish
         run: |
+          git config --global user.email "npm@dxos.network"
+          git config --global user.name "DXOS"
+          yarn
+          git reset --hard
+          yarn lerna version `echo "${{ steps.release.outputs.tag_name }}" | sed 's/^v//'` --no-git-tag-version -y
+          git commit -am "${{ steps.release.ouputs.tag_name }}"
+          git push
           npm whoami
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
