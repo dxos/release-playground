@@ -30,7 +30,7 @@ jobs:
           yarn
           git reset --hard
           yarn lerna version `echo "${{ steps.release.outputs.tag_name }}" | sed 's/^v//'` --no-git-tag-version -y
-          git commit -am "${{ steps.release.ouputs.tag_name }}"
+          git commit -am "${{ steps.release.outputs.tag_name }}"
           git push
           npm whoami
         env:
