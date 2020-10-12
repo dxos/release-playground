@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.4](https://www.github.com/dxos/release-playground/compare/v1.0.3...v1.0.4) (2020-10-12)
+
+
+### Bug Fixes
+
+* typo ([cbb64c2](https://www.github.com/dxos/release-playground/commit/cbb64c23bd09c7c0a70f8054279e097aeb1eaf58))
+
 ### [1.0.3](https://www.github.com/dxos/release-playground/compare/v1.0.2...v1.0.3) (2020-10-12)
 
 
