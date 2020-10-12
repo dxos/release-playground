@@ -32,6 +32,8 @@ jobs:
           yarn lerna version `echo "${{ steps.release.outputs.tag_name }}" | sed 's/^v//'` --no-git-tag-version -y
           git commit -am "${{ steps.release.outputs.tag_name }}"
           git push
+          git tag -f "${{ steps.release.outputs.tag_name }}"
+          git push --tags -f
           npm whoami
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
