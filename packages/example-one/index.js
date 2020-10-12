@@ -1,1 +1,1 @@
-hah!
+Hello, world!
