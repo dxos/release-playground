@@ -11,6 +11,7 @@ jobs:
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          monorepo-tags: true
           release-type: node
           package-name: release-playground
       # The logic below handles the npm publication:
