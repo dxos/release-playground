@@ -29,5 +29,5 @@ jobs:
         run: |
           npm whoami
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.DXOS_NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         if: ${{ steps.release.outputs.release_created }}
