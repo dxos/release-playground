@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.6](https://www.github.com/dxos/release-playground/compare/v1.0.5...v1.0.6) (2020-10-13)
+
+
+### Bug Fixes
+
+* added words ([76920bf](https://www.github.com/dxos/release-playground/commit/76920bffdc2bb3b0adf9562a8bd421e59f32ecda))
+
 ### [1.0.5](https://www.github.com/dxos/release-playground/compare/v1.0.4...v1.0.5) (2020-10-12)
 
 
