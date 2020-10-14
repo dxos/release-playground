@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.7](https://www.github.com/dxos/release-playground/compare/v1.0.6...v1.0.7) (2020-10-14)
+
+
+### Bug Fixes
+
+* main to alpha ([1c6b02d](https://www.github.com/dxos/release-playground/commit/1c6b02d0b6cd5d23c3b13e54c8ebc03b71f9d3e8))
+
 ### [1.0.6](https://www.github.com/dxos/release-playground/compare/v1.0.5...v1.0.6) (2020-10-13)
 
 
