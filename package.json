@@ -1,6 +1,6 @@
 {
   "name": "release-playground",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "private": true,
   "description": "playground monorepo.",
   "repository": "git@github.com:dxos/release-playground.git",
