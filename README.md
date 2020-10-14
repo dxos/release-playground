@@ -1,3 +1,3 @@
 # Release Playground
 
-Paygorund for DEP0 release process. 
+Playgorund for DEP0 release process. 
