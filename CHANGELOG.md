@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.8](https://www.github.com/dxos/release-playground/compare/v1.0.7...v1.0.8) (2020-10-14)
+
+
+### Bug Fixes
+
+* tweak ([4fcd21f](https://www.github.com/dxos/release-playground/commit/4fcd21f34553791db711018035af8ae6a4b3c3f7))
+
 ### [1.0.7](https://www.github.com/dxos/release-playground/compare/v1.0.6...v1.0.7) (2020-10-14)
 
 
