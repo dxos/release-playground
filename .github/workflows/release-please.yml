@@ -1,8 +1,8 @@
 on:
   push:
     branches:
-      - release
-name: release-please
+      - main
+name: main - release-please
 jobs:
   release-please:
     runs-on: ubuntu-latest
@@ -29,11 +29,12 @@ jobs:
           git config --global user.name "DXOS"
           yarn
           git reset --hard
-          yarn lerna version `echo "${{ steps.release.outputs.tag_name }}" | sed 's/^v//'` --no-git-tag-version -y
-          git commit -am "${{ steps.release.outputs.tag_name }}"
+          yarn lerna version `echo "${{ steps.release.outputs.tag_name }}" | sed 's/^v//'`-alpha.0 --no-git-tag-version -y
+          git commit -am "${{ steps.release.outputs.tag_name }}"-alpha.0
           git push
-          git tag -f "${{ steps.release.outputs.tag_name }}"
+          git tag -f "${{ steps.release.outputs.tag_name }}"-alpha.0
           git push --tags -f
+          git push --delete origin "${{ steps.release.outputs.tag_name }}"
           npm whoami
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
