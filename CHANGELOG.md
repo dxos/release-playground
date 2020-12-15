@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.1](https://www.github.com/dxos/release-playground/compare/v3.4.0...v3.4.1) (2020-12-15)
+
+
+### Features
+
+* should be patch ([af0bcc3](https://www.github.com/dxos/release-playground/commit/af0bcc39869d3dfb72117390b95c4efe31baf792))
+
 ## [3.4.0](https://www.github.com/dxos/release-playground/compare/v3.3.1...v3.4.0) (2020-12-15)
 
 
