@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.2.1](https://www.github.com/dxos/release-playground/compare/v3.2.0...v3.2.1) (2020-12-15)
+
+
+### Bug Fixes
+
+* .102, should be patch ([965ac42](https://www.github.com/dxos/release-playground/commit/965ac42662fd8d426a5161c4c6307f898f2ae263))
+
 ## [3.2.0](https://www.github.com/dxos/release-playground/compare/v3.1.0...v3.2.0) (2020-12-15)
 
 
