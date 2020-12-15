@@ -1,5 +1,16 @@
 # Changelog
 
+### [1.0.7](https://www.github.com/dxos/release-playground/compare/v1.0.6...v1.0.7) (2020-12-15)
+
+
+### Bug Fixes
+
+* 0 ([41f527d](https://www.github.com/dxos/release-playground/commit/41f527dcefcb51bafdf8872dfa06bf66b69a3a5b))
+* 1 ([853fb99](https://www.github.com/dxos/release-playground/commit/853fb9944af2bd12b8470a352f5b4f58481b2431))
+* main to alpha ([1c6b02d](https://www.github.com/dxos/release-playground/commit/1c6b02d0b6cd5d23c3b13e54c8ebc03b71f9d3e8))
+* release workflow ([87481e9](https://www.github.com/dxos/release-playground/commit/87481e92893f222b9af29cc21bac730fbae8967f))
+* tweak ([4fcd21f](https://www.github.com/dxos/release-playground/commit/4fcd21f34553791db711018035af8ae6a4b3c3f7))
+
 ### [1.0.10](https://www.github.com/dxos/release-playground/compare/v1.0.9...v1.0.10) (2020-10-14)
 
 
