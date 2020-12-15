@@ -1,6 +1,6 @@
 # Changelog
 
-## [3.0.0](https://www.github.com/dxos/release-playground/compare/v2.0.0...v3.0.0) (2020-12-15)
+## [2.1.0](https://www.github.com/dxos/release-playground/compare/v2.0.0...v2.1.0) (2020-12-15)
 
 
 ### ⚠ BREAKING CHANGES
