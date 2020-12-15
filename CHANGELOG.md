@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.1.0](https://www.github.com/dxos/release-playground/compare/v3.0.0...v3.1.0) (2020-12-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* .102, bump-minor-on-breaking (should be minor)
+
+### Bug Fixes
+
+* .102, bump-minor-on-breaking (should be minor) ([ce37c6b](https://www.github.com/dxos/release-playground/commit/ce37c6b05783d542c10254d08e51d9b0a5bafb26))
+
 ## [3.0.0](https://www.github.com/dxos/release-playground/compare/v2.0.0...v3.0.0) (2020-12-15)
 
 
