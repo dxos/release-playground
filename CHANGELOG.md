@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.5.1](https://www.github.com/dxos/release-playground/compare/v3.5.0...v3.5.1) (2020-12-16)
+
+
+### Features
+
+* Update readme ([55947e4](https://www.github.com/dxos/release-playground/commit/55947e43829625e14bb61395d4a619a07af22239))
+
 ## [3.5.0](https://www.github.com/dxos/release-playground/compare/v3.4.1...v3.5.0) (2020-12-15)
 
 
