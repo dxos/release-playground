@@ -1,0 +1,12 @@
+{
+  "name": "dependent-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo 'Building..'"
+  },
+  "dependencies": {
+    "@dxos/example-one": "^1.0.0"
+  }
+}
