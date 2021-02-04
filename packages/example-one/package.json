@@ -6,5 +6,8 @@
   "scripts": {
     "build": "echo build.",
     "test": "echo test."
+  },
+  "publishConfig": {
+    "access": "restricted"
   }
 }
