@@ -22,6 +22,13 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - run: |
+      - name: Build and test package outside the workspace
+        run: |
+          git config --global user.email "npm@dxos.network"
+          git config --global user.name "DXOS"
+          npm whoami
+
           cd outside-workspace/dependent-package
           yarn install --frozen-lockfile
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
