@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.5.4](https://www.github.com/dxos/release-playground/compare/v3.5.3...v3.5.4) (2021-02-04)
+
+
+### Bug Fixes
+
+* release package ([b6b943e](https://www.github.com/dxos/release-playground/commit/b6b943e370aa95adf35038971780c4ee4e8be352))
+
 ### [3.5.3](https://www.github.com/dxos/release-playground/compare/v3.5.2...v3.5.3) (2021-02-04)
 
 
