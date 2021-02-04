@@ -41,4 +41,5 @@ jobs:
           yarn lerna publish from-package --force-publish -y --dist-tag="alpha"
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         if: ${{ steps.release.outputs.release_created }}
