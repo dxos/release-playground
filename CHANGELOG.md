@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.5.3](https://www.github.com/dxos/release-playground/compare/v3.5.2...v3.5.3) (2021-02-04)
+
+
+### Bug Fixes
+
+* regenerate yarn.lock ([c811159](https://www.github.com/dxos/release-playground/commit/c811159be32db2ac24808b1aba35e481dec7ea60))
+
 ### [3.5.2](https://www.github.com/dxos/release-playground/compare/v3.5.1...v3.5.2) (2021-02-04)
 
 
